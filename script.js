@@ -22,10 +22,10 @@ const products = [
     },
     {
         id: 2,
-        title: "Paypal Account",
-        description: "NFA & FA Paypal accounts, with balance",
-        longDescription: "Minimum balance 50$",
-        price: "20€",
+        title: "Paypal Account [ CANADA ]",
+        description: "FA Paypal accounts, with balance",
+        longDescription: "Minimum balance 50$ + credit card",
+        price: "10€",
         features: [
             "Instant delivery",
             "Email + password",
